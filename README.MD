@@ -1,4 +1,4 @@
-**注：因iOS限制，本插件暂时不支持iOS。**
+**注：因iOS限制，本插件暂时不支持iOS。此分支适用于weex-sdk < 0.28.0  若weex-sdk >= 0.28.0请使用master分支**
 ## 首次使用请安装插件
 ```js
 eeui plugin add SetWallpaper
