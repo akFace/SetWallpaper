@@ -24,7 +24,7 @@ SetWallpaper.setWallpaper(path)
 
 
 ## 示例代码
-```vue
+```js
 const SetWallpaper = app.requireModule('SetWallpaper');
 // 简单使用
 SetWallpaper.setWallpaper(path)
