@@ -19,7 +19,7 @@ SetWallpaper.setWallpaper(path)
 ## path 参数说明
 | Prop      | Type   |Required  | Default   | Description  |
 |-------------|------------|--------|--------|-----|
-| path | `Bool` | `String`|  `` |传入本地图片路径|
+| path | `Bool` | `String`|  -- |传入本地图片路径|
 
 
 
